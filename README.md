@@ -10,8 +10,8 @@ Vundle下载：
 
 下载完成后，还需配置`.vimrc`文件：
 
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+    set rtp+=~/.vim/bundle/Vundle.vim
+    call vundle#begin()
 
 ### 2. 插件
 
