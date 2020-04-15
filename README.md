@@ -6,11 +6,11 @@
 
 Vundle下载：
 
-    $ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+    $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
 下载完成后，还需配置`.vimrc`文件：
 
-set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 ### 2. 插件
